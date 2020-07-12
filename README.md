@@ -1,1 +1,1 @@
-# Mine-Certificates
+# Mine Certificates
